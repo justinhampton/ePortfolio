@@ -152,6 +152,10 @@ nav, .scroll, .header {
     color: white;
 }
 
+.dark-theme .project__wrapper2{
+    background-color: white;
+}
+
 .dark-theme section {
     background-color: #242424;
 }
