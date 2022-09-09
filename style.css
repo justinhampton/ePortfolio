@@ -514,6 +514,16 @@ Projects
     margin-bottom: 60px;
 }
 
+.project__img--2 {
+    width: 70%;
+}
+
+.wrapper2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .project__wrapper:hover .project__description {
     opacity: 1;
     transform: translateY(-50%);
